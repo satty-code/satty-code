@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/satish--chaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satish--chaturvedi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21975019/satish-chaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21975019/satish-chaturvedi" height="30" width="40" /></a>
 <a href="https://instagram.com/sattyzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sattyzz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@satishchaturvedi-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@satishchaturvedi-" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@satishchaturvedi-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@satishchaturvedi-" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,18 +1,22 @@
-<h1 align="center">Hi 👋, I'm Satish</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Satish Chaturvedi</h1>
+<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on [Cisco Webex control Hub](admin.webex.com)
+- 🔭 I’m currently working on [Cisco Webex control Hub Project](admin.webex.com)
+
+- 👨‍💻 All of my projects are available at [https://github.com/satty-code](https://github.com/satty-code)
 
 - 💬 Ask me about **react, JavaScript, angular, python.**
 
-- 📫 How to reach me **sa20462020@gmail.com**
+- 📫 How to reach me **sa20462020@gmail.com | 7683016763**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/satish--chaturvedi/](https://www.linkedin.com/in/satish--chaturvedi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/satishc81438744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satishc81438744" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/satish--chaturvedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satish--chaturvedi/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21975019/satish-chaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21975019/satish-chaturvedi" height="30" width="40" /></a>
+<a href="https://instagram.com/sattyzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sattyzz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@satishchaturvedi-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@satishchaturvedi-" height="30" width="40" /></a>
 </p>
 
